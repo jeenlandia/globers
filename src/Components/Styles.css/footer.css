@@ -1,0 +1,24 @@
+.Container-footer {
+  display: flex;
+}
+
+.Footer-home {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-around;
+  width: -webkit-fill-available;
+  margin-top: 100px;
+  margin-bottom: 60px;
+}
+
+.List-one {
+  list-style: none;
+}
+
+.Orderlis {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  list-style: none;
+}

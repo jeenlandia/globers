@@ -1,0 +1,40 @@
+.header-home {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/public/assets/pufhome.JPG');
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  height: 60vh;
+}
+
+.Button-home {
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+  width: 95px;
+  height: 40px;
+  position: inherit;
+  margin-top: 20%;
+}
+
+.Butthead {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Lis-order {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style: none;
+}
+
+.Listheader {
+  display: inline;
+  font-size: 25px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}

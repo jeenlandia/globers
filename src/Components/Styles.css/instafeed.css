@@ -1,0 +1,21 @@
+.Insta-home {
+  display: flex;
+  padding-top: 2%;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.Text-feed {
+  display: block;
+  text-align: center;
+}
+
+.Photo {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.Photo-feed {
+  width: 40%;
+}

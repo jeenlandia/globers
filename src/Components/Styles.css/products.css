@@ -1,0 +1,106 @@
+.Container {
+}
+
+.Container-cards {
+  display: grid;
+  grid-template-columns: 17em 45em;
+  grid-gap: 0% 23%;
+  grid-auto-flow: row;
+  justify-items: stretch;
+  align-content: center;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.Button-product {
+  background-color: transparent;
+  color: white;
+  border: 1.5px solid white;
+  width: 95px;
+  height: 40px;
+  position: absolute;
+  margin-left: 15%;
+}
+
+.Imagenproductone {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  margin-top: 30%;
+}
+
+.Item-one {
+  width: 100%;
+  height: 50%;
+  background-repeat: no-repeat;
+}
+
+.Item-two {
+  text-align: -webkit-center;
+  margin-top: 18%;
+}
+
+.Item-tre {
+  text-align: -webkit-center;
+  margin-top: 30%;
+}
+
+.Item-four {
+  width: 100%;
+  height: 50%;
+  background-repeat: no-repeat;
+}
+
+.Item-five {
+  width: 100%;
+  height: 50%;
+  background-repeat: no-repeat;
+}
+
+.Item-six {
+  text-align: center;
+  margin-top: 13%;
+}
+
+.Item-seven {
+  text-align: -webkit-center;
+  margin-top: 50%;
+}
+
+.Item-eight {
+  width: 100%;
+  height: 50%;
+  background-repeat: no-repeat;
+}
+
+.Oneimage {
+  width: 35vw;
+}
+
+.Twoimage {
+  width: 6vw;
+}
+
+.Treimage {
+  width: 8vw;
+}
+
+.Fourimage {
+  width: 35vw;
+}
+
+.Fiveimage {
+  width: 35vw;
+}
+
+.Siximagen {
+  width: 8vw;
+}
+
+.Sevenimagen {
+  width: 8vw;
+}
+
+.Eightimagen {
+  width: 30vw;
+}

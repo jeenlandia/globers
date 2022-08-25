@@ -1,0 +1,23 @@
+.News-home {
+  display: flex;
+  margin-top: 40px;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.Text-news {
+  display: block;
+  text-align: center;
+}
+
+.Formnews {
+  margin-top: 30px;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  height: 40px;
+}
